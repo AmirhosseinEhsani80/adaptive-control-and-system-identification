@@ -86,17 +86,7 @@ The goal is not only to achieve good tracking, but to **understand why certain a
 - Numerical simulation and signal analysis
 
 ---
-
-## Intended Audience
-
-This repository is intended for:
-- Control systems researchers
-- Graduate students in control and robotics
-- Engineers working on adaptive and data-driven control
-- PhD application reviewers seeking evidence of applied control expertise
-
 The material assumes familiarity with linear systems, control theory, and adaptive algorithms.
-
 ---
 
 ## License
